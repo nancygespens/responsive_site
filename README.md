@@ -1,5 +1,8 @@
 # My Personal Hub
 
+[![Demo](https://github.com/user-attachments/assets/6f380f4c-91e7-4264-98a4-67f03c6d75f6)](https://neon-pastelito-fca793.netlify.app/)
+
+> Click the image to view the demo. The link will open in the current tab (press `Ctrl + Click` or `Cmd + Click` to open in a new tab).
 
 ## Description
 
